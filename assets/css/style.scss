@@ -2,3 +2,41 @@
 ---
 
 @import "{{ site.theme }}";
+
+.site-top {
+  text-align: center;
+}
+
+a {
+  color: #ff8400;
+}
+
+a:hover {
+  color: #78AB46;
+}
+
+header {
+  padding-top: 16%;
+  padding-bottom: 12%;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  background: url(../images/header-bg-1.jpg) 0 0 no-repeat;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: scroll;
+  background-position: center bottom;
+
+  h1 {
+    background: rgba(0, 0, 0, 0.4);
+    padding: 2%;
+  }
+
+  h2 {
+    background: rgba(0, 0, 0, 0.4);
+    color: #ff8400;
+    padding: 2%;
+  }
+}
+
+#main-content h2:before, #main-content h3:before, #main-content h4:before {
+  color: #ff8400;
+}
