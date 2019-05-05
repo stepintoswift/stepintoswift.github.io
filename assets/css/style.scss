@@ -37,6 +37,12 @@ header {
   }
 }
 
-#main-content h2:before, #main-content h3:before, #main-content h4:before {
+body.post {
+  h1 {
+    width: auto;
+  }
+}
+
+#main-content h1:before, #main-content h2:before, #main-content h3:before, #main-content h4:before {
   color: #ff8400;
 }
