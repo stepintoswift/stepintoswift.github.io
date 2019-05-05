@@ -16,4 +16,4 @@ _Step Into Swift is a work in progress at the moment as I get my head around
 so please forgive the lack of articles._
 
 _For now, enjoy the picture above that I took when on vacation in Zion
-National Park and I will update the site in my spare time :)_
+National Park and I will update the site when I get the chance :)_
