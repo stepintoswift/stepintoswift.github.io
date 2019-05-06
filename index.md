@@ -5,4 +5,4 @@ As I learn new things, remember something I wish was explained to me when I was 
 
 I believe in helping others without seeking self promotion or gain, so the content will always be free. I hope that you enjoy and find this site useful.
 
-_Step Into Swift is a work in progress at the moment as I get my head around [Jekyll](https://jekyllrb.com/){:target="_blank"} and [GitHub Pages](https://pages.github.com/){:target="_blank"} so please forgive the lack of articles._
+_Step Into Swift is built with [Jekyll](https://jekyllrb.com/){:target="_blank"} and [GitHub Pages](https://pages.github.com/){:target="_blank"}._
