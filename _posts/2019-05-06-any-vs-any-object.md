@@ -1,9 +1,10 @@
 ---
+author: "Liam"
+date: 2019-05-06 00:00:01
 layout: post
-title:  "Any vs AnyObject"
-date: 2019-05-06 00:00:00
 permalink: any-vs-anyobject
 tags: [Any, AnyObject]
+title:  "Any vs AnyObject"
 ---
 
 # Any vs Any Object
