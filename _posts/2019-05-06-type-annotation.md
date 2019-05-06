@@ -4,6 +4,7 @@ date: 2019-05-06 00:00:11
 description: "What is a Type Annotation?"
 layout: post
 permalink: type-annotation
+published: true
 tags: [type annotation]
 title: "Type Annotation"
 ---

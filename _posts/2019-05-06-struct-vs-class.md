@@ -4,6 +4,7 @@ date: 2019-05-06 00:00:06
 description: "Should I use a struct or a class?"
 layout: post
 permalink: stuct-or-class
+published: true
 tags: [class, struct]
 title: "Struct or Class"
 ---
