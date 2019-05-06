@@ -31,14 +31,22 @@
 
     <div id="content-wrapper">
       <div class="inner clearfix">
+
         <section id="main-content">
           {{ content }}
+          <a href="{{ '/' | absolute_url }}/index.html">< Back</a>
         </section>
 
         <aside id="sidebar">
+          <b>Tags</b>
+          <ul>
+            {% for tag in page.tags %}
+                <li> {{tag}} </li>
+            {% endfor %}
+          </ul>
           <img src="{{ '/' | absolute_url }}/assets/images/Swift_logo_color.svg" alt="Swift Logo" />
         <aside>
-
+          
       </div>
     </div>
 
