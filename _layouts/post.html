@@ -34,24 +34,28 @@
 
         <section id="main-content">
           {{ content }}
-          <a href="{{ '/' | absolute_url }}/index.html">< Back</a>
+          <a href="{{ '/' | absolute_url }}/posts.html">< All Posts</a>
         </section>
 
         <aside id="sidebar">
-          <b>Tags</b>
-          <ul>
-            {% for tag in page.tags %}
-                <li> {{tag}} </li>
-            {% endfor %}
-          </ul>
+
+          <a href="{{ '/' | absolute_url }}">
+            <img src="{{ '/' | absolute_url }}/assets/images/step_into_swift_logo.png" alt="Step Into Swift logo" />
+          </a>
+
+          <div>
+            <b>Tags</b>
+            <ul>
+              {% for tag in page.tags %}
+                  <li> {{tag}} </li>
+              {% endfor %}
+            </ul>
+          </div>
 
           <div>
             <b>Author:</b> {{page.author}}
           </div>
 
-          <a href="{{ '/' | absolute_url }}">
-            <img src="{{ '/' | absolute_url }}/assets/images/step_into_swift_logo.png" alt="Step Into Swift logo" />
-          </a>
         <aside>
 
       </div>
