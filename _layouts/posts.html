@@ -39,25 +39,17 @@
             {% assign sortedPosts = site.posts | sort: 'date' %}
             {% for post in sortedPosts %}
               <li>
-                <h2>
-                  <a href="{{ post.url }}">
-                    {{ post.title }}
-                  </a>
-                </h2>
-               <em><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time></em>
+                <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                <em>{{ post.description}}</em>
               </li>
             {% endfor %}
           </ul>
         </section>
 
         <aside id="sidebar">
-          <a href="{{ '/' | absolute_url }}">
-            <img src="{{ '/' | absolute_url }}/assets/images/step_into_swift_logo.png" alt="Step Into Swift logo" />
-          </a>
-          <ul>
-            <li><a href="{{ '/' | absolute_url }}">Home</a></li>
-            <li><a href="{{ '/' | absolute_url }}/posts.html">All Posts</a></li>
-          </ul>
+
+          {% include sidebar-menu.html %}
+
         <aside>
 
       </div>
