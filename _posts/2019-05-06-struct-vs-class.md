@@ -5,7 +5,7 @@ description: "Should I use a struct or a class?"
 layout: post
 permalink: stuct-or-class
 tags: [class, struct]
-title:  "Struct or Class"
+title: "Struct or Class"
 ---
 
 ## Struct vs Class

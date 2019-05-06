@@ -5,7 +5,7 @@ description: What is the difference between a method and a function?
 layout: post
 permalink: method-vs-function
 tags: [method, function]
-title:  "Method vs Function"
+title: "Method vs Function"
 ---
 
 ## Method vs Function
