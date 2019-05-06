@@ -18,4 +18,4 @@ title: "Controller Lifecycle"
 - viewDidLayoutSubviews
 - viewDidAppear
 - viewWillDisappear
-- viewDidDisappear  
+- viewDidDisappear
