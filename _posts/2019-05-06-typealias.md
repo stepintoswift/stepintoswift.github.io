@@ -8,7 +8,7 @@ title:  "Typealias"
 tags: [typealias]
 ---
 
-# Typealias
+## Typealias
 
 A typealias is simply an alternate name for an existing type.
 
