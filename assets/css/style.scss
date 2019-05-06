@@ -3,27 +3,30 @@
 
 @import "{{ site.theme }}";
 
+$primary-color: #DE5D43;
+$secondary-color: #000;
+
 .site-top {
   text-align: center;
 }
 
 a {
-  color: #DE5D43;
+  color: $primary-color;
 }
 
 a:hover {
-  color: #000;
+  color: $secondary-color;
 }
 
 header {
-  padding-top: 16%;
-  padding-bottom: 12%;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   background: url(../images/header-bg-3.png) 0 0 no-repeat;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: scroll;
   background-position: center top;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  padding-top: 16%;
+  padding-bottom: 12%;
 
   h1 {
     background: rgba(0, 0, 0, 0.2);
@@ -32,7 +35,7 @@ header {
 
   h2 {
     background: rgba(0, 0, 0, 0.2);
-    color: #DE5D43;
+    color: $primary-color;
     padding: 2%;
   }
 }
@@ -49,8 +52,8 @@ h2 time {
 }
 
 li a time {
+  color: $secondary-color:;
   font-size: 0.8em;
-  color: #000;
 }
 
 #main-content h2 {
@@ -58,11 +61,11 @@ li a time {
 }
 
 #main-content h1:before, #main-content h2:before, #main-content h3:before, #main-content h4:before {
-  color: #DE5D43;
+  color: $primary-color;
 }
 
 pre code {
-  color: #DE5D43;
+  color: $primary-color;
 }
 
 ul.post-list {
@@ -70,6 +73,7 @@ ul.post-list {
 }
 
 ul.sidebar-menu {
+  font-weight: bold;
   list-style-type: none;
   margin: 0;
   padding: 0;
