@@ -3,7 +3,7 @@ layout: post
 title:  "Typealias"
 date: 2019-05-06 00:00:02
 permalink: typealias
-tags: [Any, AnyObject]
+tags: [typealias]
 ---
 
 # Typealias
