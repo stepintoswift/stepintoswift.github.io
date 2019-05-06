@@ -2,7 +2,7 @@
 layout: post
 title:  "Any vs AnyObject"
 date: 2019-05-06 00:00:00
-permalink: any-vs-any-object
+permalink: any-vs-anyobject
 tags: [Any, AnyObject]
 ---
 
