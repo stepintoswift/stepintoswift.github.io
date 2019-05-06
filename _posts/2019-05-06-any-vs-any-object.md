@@ -1,6 +1,7 @@
 ---
 author: "Liam"
 date: 2019-05-06 00:00:01
+description: "What is the difference between Any and AnyObject?"
 layout: post
 permalink: any-vs-anyobject
 tags: [Any, AnyObject]
