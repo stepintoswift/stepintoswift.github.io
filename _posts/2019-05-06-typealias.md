@@ -4,6 +4,7 @@ date: 2019-05-06 00:00:02
 description: "What is a typealias?"
 layout: post
 permalink: typealias
+published: true
 tags: [typealias]
 title: "Typealias"
 ---

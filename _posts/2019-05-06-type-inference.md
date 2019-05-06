@@ -4,6 +4,7 @@ date: 2019-05-06 00:00:08
 description: "What is type inference?"
 layout: post
 permalink: type-inference
+published: true
 tags: [type inference]
 title: "Type Inference"
 ---
