@@ -5,7 +5,7 @@ description: "What is the difference between Any and AnyObject?"
 layout: post
 permalink: any-vs-anyobject
 tags: [Any, AnyObject]
-title:  "Any vs AnyObject"
+title: "Any vs AnyObject"
 ---
 
 ## Any vs Any Object

@@ -5,7 +5,7 @@ description: "What is type inference?"
 layout: post
 permalink: type-inference
 tags: [type inference]
-title:  "Type Inference"
+title: "Type Inference"
 ---
 
 ## Type Inference
