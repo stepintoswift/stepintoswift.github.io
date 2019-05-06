@@ -8,7 +8,7 @@ tags: [class, struct]
 title:  "Struct or Class"
 ---
 
-# Struct vs Class
+## Struct vs Class
 
 We use a struct when:
 1. Primary purpose is to encapsulate a few relatively small data values.

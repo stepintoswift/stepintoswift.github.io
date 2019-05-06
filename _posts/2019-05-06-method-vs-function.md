@@ -8,10 +8,10 @@ tags: [method, function]
 title:  "Method vs Function"
 ---
 
-# Method vs Function
+## Method vs Function
 
-## Method:
+### Method:
 Function that is associated with a class, struct, enum. Both instance and type methods. (Inside)
 
-## Function:
+### Function:
 Declared in global score and does not belong to `ANY TYPE`. (Outside)

@@ -8,7 +8,7 @@ tags: [Any, AnyObject]
 title:  "Any vs AnyObject"
 ---
 
-# Any vs Any Object
+## Any vs Any Object
 
 ## Any:
 Any type at all including function and optional types.

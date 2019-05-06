@@ -8,11 +8,11 @@
 }
 
 a {
-  color: #ff8400;
+  color: #DE5D43;
 }
 
 a:hover {
-  color: #78AB46;
+  color: #000;
 }
 
 header {
@@ -32,7 +32,7 @@ header {
 
   h2 {
     background: rgba(0, 0, 0, 0.4);
-    color: #ff8400;
+    color: #DE5D43;
     padding: 2%;
   }
 }
@@ -43,8 +43,16 @@ body.post {
   }
 }
 
+#main-content h2 {
+  padding-bottom: 2%;
+}
+
 #main-content h1:before, #main-content h2:before, #main-content h3:before, #main-content h4:before {
-  color: #ff8400;
+  color: #DE5D43;
+}
+
+pre code {
+  color: #DE5D43;
 }
 
 ul.post-list {
