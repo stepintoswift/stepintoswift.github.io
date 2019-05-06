@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Method vs Function"
+author: "Liam"
 date: 2019-05-06 00:00:00
+layout: post
 permalink: method-vs-function
 tags: [method, function]
+title:  "Method vs Function"
 ---
 
 # Method vs Function

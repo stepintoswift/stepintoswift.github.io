@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Typealias"
+author: "Liam"
 date: 2019-05-06 00:00:02
+layout: post
 permalink: typealias
+title:  "Typealias"
 tags: [typealias]
 ---
 
