@@ -26,4 +26,4 @@ Transitioning to the inactive state:
 - applciationWillEnterForeground: Called when transitioning out of the background
 
 Termination:
-- applciaitonWillTerminate: Called only when the app is running. Not called if app is suspended.
+- applciaitonWillTerminate: Called only when the app is running. Not called if app is suspended
