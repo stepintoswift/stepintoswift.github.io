@@ -27,3 +27,6 @@ Transitioning to the inactive state:
 
 Termination:
 - applciaitonWillTerminate: Called only when the app is running. Not called if app is suspended
+
+Related articles:
+- [Application States]({% post_url 2019-05-06-app-states %})
