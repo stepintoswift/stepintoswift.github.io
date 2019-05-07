@@ -21,3 +21,6 @@ title: "Application States"
 - `Not Running` <---> `Suspended`
 - `Inactive` <---> `Active`
 - `Inactive` <---> `Background`
+
+Related articles:
+- [Application Lifecycle]({% post_url 2019-05-06-app-lifecycle %})
