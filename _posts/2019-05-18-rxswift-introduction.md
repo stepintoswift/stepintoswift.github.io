@@ -2,7 +2,7 @@
 author: "Liam"
 category: "RxSwift"
 date: 2019-05-18 00:00:00
-description: "What is an ReactiveX?"
+description: "What is ReactiveX?"
 layout: post
 permalink: introduction-to-rx
 published: true
