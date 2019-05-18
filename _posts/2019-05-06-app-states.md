@@ -1,6 +1,6 @@
 ---
 author: "Liam"
-date: 2019-05-08 00:00:00
+date: 2019-05-07 00:00:00
 description: "What are the Application States?"
 layout: post
 permalink: application-states
