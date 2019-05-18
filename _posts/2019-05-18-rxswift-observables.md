@@ -1,15 +1,16 @@
 ---
 author: "Liam"
+category: "RxSwift"
 date: 2019-05-19 00:00:00
 description: "What is a Rx Observable?"
 layout: post
-permalink: rxswift-observables
+permalink: rx-observables
 published: false
-tags: [RX, ReactiveX, RxSwift, Observable, Observer]
-title: "Rx Observables"
+tags: [Rx, ReactiveX, RxSwift, Observable, Observer]
+title: "Rx: Observables"
 ---
 
-## Observables
+## Rx: Observables
 
 - An _Observer subscribes_ to an _Observable_.
 - The _Observer_ reacts to what the _Observable_ emits.

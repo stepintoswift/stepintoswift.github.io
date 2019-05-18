@@ -1,15 +1,16 @@
 ---
 author: "Liam"
+category: "RxSwift"
 date: 2019-05-20 00:00:00
 description: "What are Rx Operators?"
 layout: post
 permalink: rx-operators
 published: false
-tags: [RX, ReactiveX, RxSwift, Operators]
-title: "Rx Operators"
+tags: [Rx, ReactiveX, RxSwift, Operators]
+title: "Rx: Operators"
 ---
 
-## Operators
+## Rx: Operators
 
 - RX methods are referred to as Operators.
 - Allow you to transform, combine, manipulate and work with the sequences of items emitted by Observables.

@@ -1,22 +1,22 @@
 ---
 author: "Liam"
 category: "RxSwift"
-date: 2019-05-18 00:00:00
-description: "description"
+date: 2019-05-21 00:00:00
+description: "How to Subscribe to Observables"
 layout: post
-permalink: variable
+permalink: rx-subscribe-to-observables
 published: false
-tags: [variable var]
-title: "Variable"
+tags: [Rx, ReactiveX, RxSwift, Observables, Subscribe]
+title: "Rx: Subscribing to Observables"
 ---
 
-## RxSwift: Subscribing to observables
+## Rx: Subscribing to Observables
 
-— Observables will NOT send events until they have a subscriber.
-— It is the subscription that triggers an observable to begin emitting events until `.error` or `.completed`
-— Observing an observable is known as subscribing.
-— Subscribe takes an escaping closure that takes an `event` of the supplied typed (that doesn’t return anything).
-— Subscribe returns a `Disposable`.
+- Observables will NOT send events until they have a subscriber.
+- It is the subscription that triggers an observable to begin emitting events until `.error` or `.completed` is emitted.
+- Observing an observable is known as subscribing.
+- `Subscribe` takes an escaping closure that takes an `event` of the supplied typed (that doesn’t return anything).
+- Subscribe returns a `Disposable`.
 
 ```
 let lotteryNumberOne = 1
@@ -35,7 +35,7 @@ observable.subscribe { element in
 // completed
 ```
 
-— Above emits next events, the below will unwrap the optional elements and produce the value from within the element.
+- Above emits `next` events, the below will unwrap the optional elements and produce the value from within the element.
 
 ```
 ...

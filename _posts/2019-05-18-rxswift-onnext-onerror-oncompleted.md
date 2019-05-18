@@ -1,19 +1,20 @@
 ---
 author: "Liam"
-date: 2019-05-18 00:00:00
-description: "description"
+category: "RxSwift"
+date: 2019-05-22 00:00:00
+description: "Emitting..."
 layout: post
-permalink: link-name
+permalink: rx-onnext-oncompleted-onerror
 published: false
-tags: [tag1, tag2]
-title: "title"
+tags: [Rx, ReactiveX, RxSwift, onNext, onCompleted, onError]
+title: "Rx: onNext, onCompleted, onError"
 ---
 
-## onNext, onCompleted, onError
+## Rx: onNext, onCompleted, onError
 
 ### onNext
 - Called by the Observable when it emits an item.
-- Takes as a parameter the item emitted by the observable.
+- Takes as a parameter the item emitted by the Observable.
 - Calls are referred to as `emissions`.
 
 ### onError
@@ -24,5 +25,5 @@ title: "title"
 - Calls are referred to as `notifications`.
 
 ### onCompleted
-- Called after the Observable as called `onNext` for a final time (If no errors have occurred).
+- Called after the Observable has called `onNext` for a final time (If no errors have occurred).
 - Calls are referred to as `notifications`.

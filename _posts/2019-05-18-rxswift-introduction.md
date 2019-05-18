@@ -4,13 +4,13 @@ category: "RxSwift"
 date: 2019-05-18 00:00:00
 description: "What is ReactiveX?"
 layout: post
-permalink: rxswift-introduction-to-rx
+permalink: rx-introduction-to-reativex
 published: true
-tags: [RX, ReactiveX, RxSwift, Sequences, Operators]
-title: "Introduction to Rx"
+tags: [Rx, ReactiveX, RxSwift, Sequences, Operators]
+title: "Rx: An introduction to ReactiveX"
 ---
 
-## Introduction to Rx
+## Rx: An introduction to ReactiveX
 
 - ReactiveX is a library for composing asynchronous and event based programs by using observable sequences.
 - It extends the observer pattern.
