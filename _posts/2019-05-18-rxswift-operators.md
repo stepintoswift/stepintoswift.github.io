@@ -10,6 +10,7 @@ title: "title"
 ---
 
 ## Operators
+- RX methods are referred to as operators.
 - Allow you to transform, combine, manipulate and work with the sequences of items emitted by Observables.
 - Allow you to compose asynchronous sequences together in a declarative manner.
 - As efficient as callbacks but without the drawbacks of nesting callback handlers.

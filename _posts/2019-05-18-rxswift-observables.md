@@ -1,12 +1,12 @@
 ---
 author: "Liam"
-date: 2019-05-18 00:00:00
-description: "description"
+date: 2019-05-19 00:00:00
+description: "What is an Observable?"
 layout: post
-permalink: link-name
+permalink: rxswift-observables
 published: false
-tags: [tag1, tag2]
-title: "title"
+tags: [RX, ReactiveX, RxSwift, Observable, Observer]
+title: "Observables"
 ---
 
 ## Observables
@@ -18,9 +18,39 @@ title: "title"
 - Observable is a sequence definition that must be subscribed to for anything to really happen.
 - Observables must be defined as being a specific type if the type cannot be inferred.
 - Observables produce events. We say that they are “emitting”.
+- Observables emit `next` events until an `error` event or `completion` event occurs.
+- When an `error` or `completion` event occurs, this results in termination and no more events get emitted.
 - Events can contain:
     * Values (Numbers, instances of a custom type).
     * Gesture recognisers (`Tap`).
-- Observables emit `next` events until an `error` event or `completion` event occurs.
-- When an `error` or `completion` event occurs, this results in termination and no more events get emitted.
-- RX methods are referred to as operators.
+
+Examples of creating observable sequences:
+
+```
+let championsSequence = Observable.just("Celtic")
+
+let titlesInARow = Observable.from([1,2,3,4,5,6,7,8])
+```
+
+Example of subscribing to an observable:
+
+```
+let disposeBag = DisposeBag()
+
+let champions = Observable.just("Celtic!")
+
+champions.subscribe(onNext: { [weak self] champs in
+  print(champs)
+})
+.disposed(by: disposeBag)
+```
+
+Example of a tap event:
+```
+signInButton
+  .rx.tap
+  .asObservable()
+  .subscribe(onNext: { [unowned self] in
+		self.signIn() })
+  .disposed(by: disposeBag)
+```
