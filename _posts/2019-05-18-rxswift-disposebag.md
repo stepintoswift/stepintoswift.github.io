@@ -1,7 +1,7 @@
 ---
 author: "Liam"
 category: "RxSwift"
-date: 2019-05-23 00:00:00
+date: 2019-05-18 00:00:05
 description: "What is a DisposeBag?"
 layout: post
 permalink: rx-disposebag

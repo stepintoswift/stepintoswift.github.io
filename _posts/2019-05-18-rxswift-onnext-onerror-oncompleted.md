@@ -1,11 +1,11 @@
 ---
 author: "Liam"
 category: "RxSwift"
-date: 2019-05-22 00:00:00
+date: 2019-05-18 00:00:04
 description: "Emitting..."
 layout: post
 permalink: rx-onnext-oncompleted-onerror
-published: false
+published: true
 tags: [Rx, ReactiveX, RxSwift, onNext, onCompleted, onError]
 title: "Rx: onNext, onCompleted, onError"
 ---
