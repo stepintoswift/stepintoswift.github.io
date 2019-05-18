@@ -1,6 +1,6 @@
 ---
 author: "Liam"
-date: 2019-05-11 00:00:00
+date: 2019-05-06 00:00:08
 description: "What is the lifecycle of a controller?"
 layout: post
 permalink: controller-lifecycle

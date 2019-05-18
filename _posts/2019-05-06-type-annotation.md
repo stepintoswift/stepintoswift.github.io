@@ -1,6 +1,6 @@
 ---
 author: "Liam"
-date: 2019-05-11 00:00:03
+date: 2019-05-06 00:00:11
 description: "What is a Type Annotation?"
 layout: post
 permalink: type-annotation

@@ -1,7 +1,7 @@
 ---
 author: "Liam"
 date: 2019-05-18 00:00:09
-description: "What is a variadic parameter?"
+description: "What is a Variadic Parameter?"
 layout: post
 permalink: variadic-parameter
 published: true

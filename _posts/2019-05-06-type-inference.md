@@ -1,7 +1,7 @@
 ---
 author: "Liam"
-date: 2019-05-11 00:00:04
-description: "What is type inference?"
+date: 2019-05-06 00:00:12
+description: "What is Type Inference?"
 layout: post
 permalink: type-inference
 published: true

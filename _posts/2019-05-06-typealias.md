@@ -1,7 +1,7 @@
 ---
 author: "Liam"
-date: 2019-05-11 00:00:05
-description: "What is a typealias?"
+date: 2019-05-06 00:00:13
+description: "What is a Typealias?"
 layout: post
 permalink: typealias
 published: true
