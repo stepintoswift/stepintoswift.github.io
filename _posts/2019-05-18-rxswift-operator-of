@@ -5,7 +5,7 @@ date: 2019-05-18 00:00:00
 description: "description"
 layout: post
 permalink: variable
-published: true
+published: false
 tags: [variable var]
 title: "Variable"
 ---
