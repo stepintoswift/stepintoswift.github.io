@@ -1,12 +1,12 @@
 ---
 author: "Liam"
 date: 2019-05-19 00:00:00
-description: "What is an Observable?"
+description: "What is a Rx Observable?"
 layout: post
 permalink: rxswift-observables
-published: false
+published: true
 tags: [RX, ReactiveX, RxSwift, Observable, Observer]
-title: "Observables"
+title: "Rx Observables"
 ---
 
 ## Observables
