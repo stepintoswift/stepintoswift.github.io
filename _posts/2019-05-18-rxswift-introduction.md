@@ -4,7 +4,7 @@ category: "RxSwift"
 date: 2019-05-18 00:00:00
 description: "What is ReactiveX?"
 layout: post
-permalink: introduction-to-rx
+permalink: rxswift-introduction-to-rx
 published: true
 tags: [RX, ReactiveX, RxSwift, Sequences, Operators]
 title: "Introduction to Rx"
@@ -22,8 +22,9 @@ Things you can do:
 - React to a property changing:
 
 ```
-let homeTeamScore = BehaviorSubject<Int>(value: 0)
 let disposeBag = DisposeBag()
+
+let homeTeamScore = BehaviorSubject<Int>(value: 0)
 
 homeTeamScore.subscribe(onNext: { [weak self] score in
   self?.playSound(.goal)
