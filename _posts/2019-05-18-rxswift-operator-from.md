@@ -7,7 +7,7 @@ layout: post
 permalink: rx-operator-from
 published: true
 tags: [Rx, ReactiveX, RxSwift, From, Operator]
-title: "From Operator"
+title: "Rx: From Operator"
 ---
 
 ## Rx: From operator

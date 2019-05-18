@@ -7,7 +7,7 @@ layout: post
 permalink: rx-operator-of
 published: true
 tags: [Rx, ReactiveX, RxSwift, Of, Operator]
-title: "Of Operator"
+title: "Rx: Of Operator"
 ---
 
 ## Rx: Of Operator

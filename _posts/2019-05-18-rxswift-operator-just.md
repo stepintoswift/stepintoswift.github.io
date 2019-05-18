@@ -7,7 +7,7 @@ layout: post
 permalink: rx-operator-just
 published: true
 tags: [Rx, ReactiveX, RxSwift, Just, Operator]
-title: "Just Operator"
+title: "Rx: Just Operator"
 ---
 
 ## Rx: Just Operator
