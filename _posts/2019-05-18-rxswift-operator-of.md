@@ -12,9 +12,9 @@ title: "Rx: Of Operator"
 
 ## Rx: Of Operator
 
-— `.of` takes a variadic parameter.
-— Creates an `observable` of the specified type (Not an array of that type unless you provide the parameter as an array).
-— Type inference kicks in here so the type is not needed.
+- `.of` takes a variadic parameter.
+- Creates an `observable` of the specified type (Not an array of that type unless you provide the parameter as an array).
+- Type inference kicks in here so the type is not needed.
 
 ```
 let lotteryNumberOne = 1

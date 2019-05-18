@@ -12,9 +12,9 @@ title: "Rx: From Operator"
 
 ## Rx: From operator
 
-— Only takes an array of elements.
-— Creates an observable of individual type instances from a regular array of elements.
-— The produced type is an `Observable` of the supplied type NOT an array of the supplied type.
+- Only takes an array of elements.
+- Creates an observable of individual type instances from a regular array of elements.
+- The produced type is an `Observable` of the supplied type NOT an array of the supplied type.
 
 ```
 let lotteryNumberOne = 1

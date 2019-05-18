@@ -12,8 +12,8 @@ title: "Rx: Just Operator"
 
 ## Rx: Just Operator
 
-— `.just` operator creates an observable sequence containing `just` a single element and a `.completed` event.
-— Type inference means we don’t need to define the type.
+- `.just` operator creates an observable sequence containing `just` a single element and a `.completed` event.
+- Type inference means we don’t need to define the type.
 
 ```
 let lotteryNumberOne = 1
