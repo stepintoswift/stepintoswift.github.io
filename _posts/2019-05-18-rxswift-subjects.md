@@ -10,7 +10,7 @@ tags: [tag1, tag2]
 title: "title"
 ---
 
-## RxSwift: `Subject`
+## RxSwift: `Subjects`
 
 — Can act as both an `Observable` and as an `Observer`
 — `.onNext(_:)` puts a new element onto the subject
