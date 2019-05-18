@@ -1,6 +1,6 @@
 ---
 author: "Liam"
-date: 2019-05-06 00:00:02
+date: 2019-05-16 00:00:00
 description: "What is a typealias?"
 layout: post
 permalink: typealias

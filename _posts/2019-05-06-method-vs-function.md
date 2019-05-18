@@ -1,6 +1,6 @@
 ---
 author: "Liam"
-date: 2019-05-06 00:00:00
+date: 2019-05-13 00:00:00
 description: What is the difference between a method and a function?
 layout: post
 permalink: method-vs-function

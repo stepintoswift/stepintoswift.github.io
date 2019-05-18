@@ -1,6 +1,6 @@
 ---
 author: "Liam"
-date: 2019-05-06 00:00:08
+date: 2019-05-15 00:00:00
 description: "What is type inference?"
 layout: post
 permalink: type-inference

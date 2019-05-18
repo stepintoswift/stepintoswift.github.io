@@ -1,6 +1,6 @@
 ---
 author: "Liam"
-date: 2019-05-06 00:00:06
+date: 2019-05-10 00:00:00
 description: "Should I use a struct or a class?"
 layout: post
 permalink: stuct-or-class
