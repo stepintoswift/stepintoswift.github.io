@@ -2,7 +2,7 @@
 author: "Liam"
 category: "RxSwift"
 date: 2019-05-18 00:00:04
-description: "RxSwift Emitting..."
+description: "RxSwift onNext, onCompleted, onError, ohMy!!"
 layout: post
 permalink: rxswift-onnext-oncompleted-onerror
 published: true

@@ -1,24 +1,24 @@
 ---
 author: "Liam"
 category: "RxSwift"
-date: 2019-05-18 00:00:00
-description: "description"
+date: 2019-05-19 00:00:07
+description: "What is a PublishSubject in RxSwift?"
 layout: post
-permalink: link-name
-published: false
-tags: [tag1, tag2]
-title: "title"
+permalink: rxswift-publishsubject
+published: true
+tags: [Rx, ReactiveX, RxSwift, Subjects, PublishSubject]
+title: "PublishSubject"
 ---
 
 ## RxSwift: Publish Subject
 
--- Starts empty and only emits new elements to subscribers.
-— Useful when you want subscribers to be notified of new events from the point at which they subscribed until they either unsubscribe or termination (`.completed` / `.error`)
-— Will emit stop event to new subscribers and no longer emit `.next` events
-— Will re-emit stop event to future subscribers
-— Usage: modelling time-sensitive data.
+- Starts empty and only emits new elements to subscribers.
+- Useful when you want subscribers to be notified of new events from the point at which they subscribed until they either unsubscribe or termination (`.completed` / `.error`).
+- Will emit stop event to new subscribers and no longer emit `.next` events.
+- Will re-emit stop event to future subscribers.
+- Use case: Modelling time-sensitive data.
 
 ```swift
 let subject = PublishSubject<String>()
-subject.onNext("Champions again as you know")
+subject.onNext("Champions again as you know!")
 ```
