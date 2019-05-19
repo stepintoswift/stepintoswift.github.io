@@ -1,20 +1,20 @@
 ---
 author: "Liam"
 category: "RxSwift"
-date: 2019-05-18 00:00:00
-description: "description"
+date: 2019-05-19 00:00:04
+description: "What is the Never Operator in RxSwift?"
 layout: post
-permalink: variable
-published: false
-tags: [variable var]
-title: "Variable"
+permalink: rxswift-operator-never
+published: true
+tags: [Rx, ReactiveX, RxSwift, Never, Operators, Operators]
+title: "Never Operator"
 ---
 
-## RxSwift: `never` operator
+## RxSwift: Never Operator
 
-— Creates an observable that does not emit anything and never terminates
-— Represents infinite duration.
-— When subscribed to, the `onNext` nor the `onCompleted` ever emit.
+- Creates an observable that does not emit anything and never terminates.
+- Represents infinite duration.
+- When subscribed to, neither the `onNext` nor the `onCompleted` ever emit.
 
 ```swift
 let observable = Observable<Any>.never()

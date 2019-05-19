@@ -1,19 +1,19 @@
 ---
 author: "Liam"
 category: "RxSwift"
-date: 2019-05-18 00:00:00
-description: "description"
+date: 2019-05-19 00:00:05
+description: "What is the Range Operator in RxSwift?"
 layout: post
-permalink: variable
-published: false
-tags: [variable var]
-title: "Variable"
+permalink: rxswift-operator-range
+published: true
+tags: [Rx, ReactiveX, RxSwift, Create, Operators, Operators]
+title: "Range Operator"
 ---
 
-## RxSwift: `range` operator
+## RxSwift: Range Operator
 
-— Generate an observable from a range of values
+- Generate an observable from a range of values.
 
 ```swift
-let observable = Observable<Int>.range(start: 1888, count: 8)
+let observable = Observable<Int>.range(start: 2011, count: 8)
 ```
