@@ -2,12 +2,12 @@
 author: "Liam"
 category: "RxSwift"
 date: 2019-05-19 00:00:10
-description: "What is a Variable Subject in RxSwift"
+description: "What is a Variable Subject in RxSwift?"
 layout: post
 permalink: rxswift-variable
 published: true
 tags: [Rx, ReactiveX, RxSwift, Subjects, Variable]
-title: "RxSwift: Variable"
+title: "Variable Subject"
 ---
 
 ## RxSwift: Variables

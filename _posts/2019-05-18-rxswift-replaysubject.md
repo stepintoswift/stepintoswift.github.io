@@ -10,7 +10,7 @@ tags: [Rx, ReactiveX, RxSwift, Subjects, ReplaySubject]
 title: "ReplaySubject"
 ---
 
- ## RxSwift: ReplaySubject
+## RxSwift: ReplaySubject
 
 - Initialised with a buffer size and will maintain a buffer of elements up to that size and replay it to new subscribers.
 - Useful when you want to show more than the latest value that a `BehaviorSubject` would provide.

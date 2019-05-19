@@ -9,6 +9,8 @@ tags: [variadic]
 title: "Variadic Parameter"
 ---
 
+## Variadic Parameter
+
 - Accepts zero or more values of a specific type.
 - Create by inserting three periods after the parameters type name.
 - Values of variadic parameter are accessible within the function body through an array of the defined type.
