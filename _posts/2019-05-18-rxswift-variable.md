@@ -23,7 +23,7 @@ title: "RxSwift: Variable"
 — Can subscribe tot hem as observables to be able to react when a new `.next` event is emitted, just like any other subject
 — Useful for one off needs such as checking the current value without subscribing to receive updates.
 
-```
+```swift
 var variable = Variable("James Forrest")
 variable.value = "Scott Brown"
 ```

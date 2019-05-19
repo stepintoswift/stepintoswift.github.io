@@ -18,6 +18,6 @@ title: "title"
 — Useful when you want to repopulate a view with the most recent data
 — Usage: bind controls in a user profile screen so the latest values can be use to pre-populate the display while the app fetches fresh data.
 
-```
+```swift
 let subject = BehaviorSubject<String>(value: "8 in a row")
 ```

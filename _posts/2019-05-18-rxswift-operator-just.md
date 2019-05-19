@@ -2,20 +2,20 @@
 author: "Liam"
 category: "RxSwift"
 date: 2019-05-18 00:00:06
-description: "What is the just operator?"
+description: "What is the Just Operator in RxSwift?"
 layout: post
-permalink: rx-operator-just
+permalink: rxswift-operator-just
 published: true
-tags: [Rx, ReactiveX, RxSwift, Just, Operator]
-title: "Rx: Just Operator"
+tags: [Rx, ReactiveX, RxSwift, Just, Operators, Operators]
+title: "Just Operator"
 ---
 
-## Rx: Just Operator
+## RxSwift: Just Operator
 
 - `.just` operator creates an observable sequence containing `just` a single element and a `.completed` event.
 - Type inference means we don’t need to define the type.
 
-```
+```swift
 let lotteryNumberOne = 1
 let lotteryNumberTwo = 2
 let lotteryNumberThree = 3

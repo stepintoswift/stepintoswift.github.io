@@ -2,12 +2,12 @@
 author: "Liam"
 category: "RxSwift"
 date: 2019-05-18 00:00:02
-description: "What are Rx Operators?"
+description: "What are RxSwift Operators?"
 layout: post
-permalink: rx-operators
+permalink: rxswift-operators
 published: true
-tags: [Rx, ReactiveX, RxSwift, Operators]
-title: "Rx: Operators"
+tags: [Rx, ReactiveX, RxSwift, Operators, Operators]
+title: "Operators"
 ---
 
 ## Rx: Operators

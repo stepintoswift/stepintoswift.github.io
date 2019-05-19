@@ -13,12 +13,14 @@ title: "Typealias"
 
 A typealias is simply an alternate name for an existing type.
 
-e.g: Giving a basic type more meaning: <br />
-```
+e.g: Giving a basic type more meaning:
+
+```swift
 typealias ConfirmationMessageShown = Bool
 ```
 
-e.g: Also useful for closures: <br />
-```
+e.g: Also useful for closures:
+
+```swift
 typealias DismissHandler = () -> Void
 ```

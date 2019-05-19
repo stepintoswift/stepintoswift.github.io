@@ -19,7 +19,7 @@ title: "title"
 — Beware that bugger is stored in memory which may cause issues if using images. Large buffers may use up a lot of memory. Also, array will be emitted as such so watch for the size of image based arrays.
 — Initialised using the type methods `create(bufferSize:)`
 
-```
+```swift
 let subject = ReplaySubject<String>.create(bufferSuze: 8)
 ```
 

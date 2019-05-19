@@ -39,8 +39,11 @@
             {% assign sortedPosts = site.posts | sort: 'date' | reverse %}
             {% for post in sortedPosts %}
               <li>
-                <h2><a href="{{ post.url }}">{{ post.title }}</a> <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time></h2>
-                {{ post.description}}
+                <h2>
+                  <a href="{{ post.url }}">{{ post.description }}</a>
+                  <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+                </h2>
+
               </li>
             {% endfor %}
           </ul>

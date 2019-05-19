@@ -14,7 +14,7 @@ title: "Variadic Parameter"
 - Values of variadic parameter are accessible within the function body through an array of the defined type.
 - A function can only have ONE variadic parameter
 
-```
+```swift
 func sum(_ numbers: Int...) -> Int {
     var total: Int = 0
 

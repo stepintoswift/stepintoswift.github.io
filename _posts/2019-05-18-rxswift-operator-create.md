@@ -1,20 +1,33 @@
 ---
 author: "Liam"
 category: "RxSwift"
-date: 2019-05-18 00:00:00
-description: "description"
+date: 2019-05-19 00:00:00
+description: "What is the Create Operator in RxSwift?"
 layout: post
-permalink: variable
-published: false
-tags: [variable var]
-title: "Variable"
+permalink: rxswift-operator-create
+published: true
+tags: [Rx, ReactiveX, RxSwift, Create, Operators, Operators]
+title: "Create Operator"
 ---
 
-## RxSwift: `create` operator
+## RxSwift: Create Operator
 
-— Specify all events that an observable will emit to subscribers
-— Takes a single parameter named `subscribe`
-— Provide the implementation of calling `subscribe` on the observable. It defines all the events that will be emitted to subscribers
-— `subscribe` parameter is an escaping closure that takes an `AnyObserver` and returns a `Disposable`
-— `AnyObserver` is a generic type that allows for adding values `onto` an observable sequence, which will then be emitted to subscribers.
-— Most flexible way to create a custom observable however have to remember to send a `.completed` event and also return `Disposable`
+- Specifies all events that an observable will emit to subscribers.
+- Takes a single parameter named `subscribe`.
+- Provide the implementation of calling `subscribe` on the Observable.
+- `subscribe` parameter is an escaping closure that takes an `AnyObserver` and returns a `Disposable`.
+- `AnyObserver` is a generic type that allows you to add values `onto` an observable sequence, which will then be emitted to subscribers.
+- Most flexible way to create a custom observable however, you have to remember to send a `.completed` event and also return `Disposable`.
+
+Example:
+
+```swift
+Observable<String>.create { observer in
+  observer.onNext("Gary Hooper")
+  observer.onNext("Tony Stokes")
+  observer.onCompleted()
+  // No point in .onNext again as we have completed
+  // and no more events will be emitted.
+  return Disposables.create()
+}
+```

@@ -15,6 +15,6 @@ title: "Variable"
 — Useful when you want to return an observable that immediately terminates or intentionally has zero values.
 — Emits no elements followed by a `.completed` event
 
-```
+```swift
 let observable = Observable<Void>.empty
 ```

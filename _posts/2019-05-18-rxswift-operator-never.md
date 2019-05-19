@@ -16,6 +16,6 @@ title: "Variable"
 — Represents infinite duration.
 — When subscribed to, the `onNext` nor the `onCompleted` ever emit.
 
-```
+```swift
 let observable = Observable<Any>.never()
 ```

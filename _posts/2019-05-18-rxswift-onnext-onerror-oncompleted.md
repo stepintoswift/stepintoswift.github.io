@@ -2,15 +2,15 @@
 author: "Liam"
 category: "RxSwift"
 date: 2019-05-18 00:00:04
-description: "Emitting..."
+description: "RxSwift Emitting..."
 layout: post
-permalink: rx-onnext-oncompleted-onerror
+permalink: rxswift-onnext-oncompleted-onerror
 published: true
 tags: [Rx, ReactiveX, RxSwift, onNext, onCompleted, onError]
-title: "Rx: onNext, onCompleted, onError"
+title: "onNext, onCompleted, onError"
 ---
 
-## Rx: onNext, onCompleted, onError
+## RxSwift: onNext, onCompleted, onError
 
 ### onNext
 - Called by the Observable when it emits an item.

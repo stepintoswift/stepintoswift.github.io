@@ -14,6 +14,6 @@ title: "Variable"
 
 — Generate an observable from a range of values
 
-```
+```swift
 let observable = Observable<Int>.range(start: 1888, count: 8)
 ```

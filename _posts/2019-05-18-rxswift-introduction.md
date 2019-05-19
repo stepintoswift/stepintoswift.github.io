@@ -4,13 +4,13 @@ category: "RxSwift"
 date: 2019-05-18 00:00:00
 description: "What is ReactiveX?"
 layout: post
-permalink: rx-introduction-to-reativex
+permalink: rxswift-introduction-to-reativex
 published: true
 tags: [Rx, ReactiveX, RxSwift, Sequences, Operators]
-title: "Rx: An introduction to ReactiveX"
+title: "An introduction to ReactiveX"
 ---
 
-## Rx: An introduction to ReactiveX
+## RxSwift: An introduction to ReactiveX
 
 - ReactiveX is a library for composing asynchronous and event based programs by using observable sequences.
 - It extends the observer pattern.
@@ -21,7 +21,7 @@ Things you can do:
 
 - React to a property changing:
 
-```
+```swift
 let disposeBag = DisposeBag()
 
 let homeTeamScore = BehaviorSubject<Int>(value: 0)
@@ -36,7 +36,7 @@ homeTeamScore.onNext(1)
 
 - React to a button tap (Using RxCocoa)
 
-```
+```swift
 signInButton
   .rx.tap
   .asObservable()

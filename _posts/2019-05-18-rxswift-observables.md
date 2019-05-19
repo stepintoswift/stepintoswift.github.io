@@ -4,13 +4,13 @@ category: "RxSwift"
 date: 2019-05-18 00:00:01
 description: "What is a Rx Observable?"
 layout: post
-permalink: rx-observables
+permalink: rxswift-observables
 published: true
 tags: [Rx, ReactiveX, RxSwift, Observable, Observer]
-title: "Rx: Observables"
+title: "Observables"
 ---
 
-## Rx: Observables
+## RxSwift: Observables
 
 - An _Observer subscribes_ to an _Observable_.
 - The _Observer_ reacts to what the _Observable_ emits.
@@ -27,7 +27,7 @@ title: "Rx: Observables"
 
 Examples of creating observable sequences:
 
-```
+```swift
 let championsSequence = Observable.just("Celtic")
 
 let titlesInARow = Observable.from([1,2,3,4,5,6,7,8])
@@ -35,7 +35,7 @@ let titlesInARow = Observable.from([1,2,3,4,5,6,7,8])
 
 Example of subscribing to an observable:
 
-```
+```swift
 let disposeBag = DisposeBag()
 
 let champions = Observable.just("Celtic!")
@@ -47,7 +47,8 @@ champions.subscribe(onNext: { [weak self] champs in
 ```
 
 Example of a tap event:
-```
+
+```swift
 signInButton
   .rx.tap
   .asObservable()

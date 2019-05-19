@@ -18,7 +18,7 @@ title: "title"
 — Will re-emit stop event to future subscribers
 — Usage: modelling time-sensitive data.
 
-```
+```swift
 let subject = PublishSubject<String>()
 subject.onNext("Champions again as you know")
 ```
