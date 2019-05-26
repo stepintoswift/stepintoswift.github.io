@@ -4,7 +4,7 @@ category: "RxSwift"
 date: 2019-05-26 00:00:01
 description: "What are the Combining Operators in RxSwift?"
 layout: post
-permalink: rxswift-combining-operators
+permalink: rxswift-operators-combining
 published: true
 tags: [Rx, ReactiveX, RxSwift, Combining, Operators]
 title: "Combining Operators"
