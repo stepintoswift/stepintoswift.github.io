@@ -2,12 +2,12 @@
 author: "Liam"
 category: "RxSwift"
 date: 2019-05-26 00:00:08
-description: "What is the SkipUntil Operator in RxSwift?"
+description: "SkipUntil Operator"
 layout: post
 permalink: rxswift-operator-skipuntil
 published: true
 tags: [Rx, ReactiveX, RxSwift, Operator, SkipUntil]
-title: "SkipUntil Operator"
+title: "What is the SkipUntil Operator in RxSwift?"
 ---
 
 ## RxSwift: SkipUntil Operator

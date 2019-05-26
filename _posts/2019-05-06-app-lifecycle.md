@@ -1,12 +1,12 @@
 ---
 author: "Liam"
 date: 2019-05-06 00:00:02
-description: "What is the lifecycle of an iOS Application?"
+description: "Application Lifecycle"
 layout: post
 permalink: application-lifecycle
 published: true
 tags: [application lifecycle]
-title: "Application Lifecycle"
+title: "What is the lifecycle of an iOS Application?"
 ---
 
 ## Application Lifecycle

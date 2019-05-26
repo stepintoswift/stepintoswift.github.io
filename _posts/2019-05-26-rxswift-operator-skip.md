@@ -2,12 +2,12 @@
 author: "Liam"
 category: "RxSwift"
 date: 2019-05-26 00:00:06
-description: "What is the Skip Operator in RxSwift?"
+description: "Skip Operator"
 layout: post
 permalink: rxswift-operator-skip
 published: true
 tags: [Rx, ReactiveX, RxSwift, Operator, Skip]
-title: "Skip Operator"
+title: "What is the Skip Operator in RxSwift?"
 ---
 
 ## RxSwift: Skip Operator

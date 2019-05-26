@@ -2,12 +2,12 @@
 author: "Liam"
 category: "RxSwift"
 date: 2019-05-18 00:00:06
-description: "What is the Just Operator in RxSwift?"
+description: "Just Operator"
 layout: post
 permalink: rxswift-operator-just
 published: true
 tags: [Rx, ReactiveX, RxSwift, Just, Operators, Operators]
-title: "Just Operator"
+title: "What is the Just Operator in RxSwift?"
 ---
 
 ## RxSwift: Just Operator

@@ -1,12 +1,12 @@
 ---
 author: "Liam"
 date: 2019-05-06 00:00:08
-description: "What is the lifecycle of a controller?"
+description: "Controller Lifecycle"
 layout: post
 permalink: controller-lifecycle
 published: true
 tags: [lifecycle controller]
-title: "Controller Lifecycle"
+title: "What is the lifecycle of a controller?"
 ---
 
 ## Controller Lifecycle

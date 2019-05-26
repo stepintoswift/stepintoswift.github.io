@@ -2,12 +2,12 @@
 author: "Liam"
 category: "RxSwift"
 date: 2019-05-18 00:00:07
-description: "What is the From Operator in RxSwift?"
+description: "From Operator"
 layout: post
 permalink: rxswift-operator-from
 published: true
 tags: [Rx, ReactiveX, RxSwift, From, Operators, Operators]
-title: "From Operator"
+title: "What is the From Operator in RxSwift?"
 ---
 
 ## RxSwift: From operator

@@ -2,12 +2,12 @@
 author: "Liam"
 category: "RxSwift"
 date: 2019-05-26 00:00:00
-description: "What are the Filtering Operators in RxSwift?"
+description: "Filtering Operators"
 layout: post
 permalink: rxswift-operators-filtering
 published: true
 tags: [Rx, ReactiveX, RxSwift, Filtering, Operators]
-title: "Filtering Operators"
+title: "What are the Filtering Operators in RxSwift?"
 ---
 
 ## RxSwift: Common Filtering Operators

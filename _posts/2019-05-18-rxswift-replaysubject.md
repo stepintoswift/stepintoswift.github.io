@@ -2,12 +2,12 @@
 author: "Liam"
 category: "RxSwift"
 date: 2019-05-19 00:00:09
-description: "What is a ReplaySubject in RxSwift?"
+description: "ReplaySubject"
 layout: post
 permalink: rxswift-replaysubject
 published: true
 tags: [Rx, ReactiveX, RxSwift, Subjects, ReplaySubject]
-title: "ReplaySubject"
+title: "What is a ReplaySubject in RxSwift?"
 ---
 
 ## RxSwift: ReplaySubject

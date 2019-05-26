@@ -2,12 +2,12 @@
 author: "Liam"
 category: "RxSwift"
 date: 2019-05-26 00:00:09
-description: "What is the Take Operator in RxSwift?"
+description: "Take Operator"
 layout: post
 permalink: rxswift-operator-take
 published: true
 tags: [Rx, ReactiveX, RxSwift, Operator, Take]
-title: "Take Operator"
+title: "What is the Take Operator in RxSwift?"
 ---
 
 ## RxSwift: Take Operator

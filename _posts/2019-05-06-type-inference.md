@@ -1,12 +1,12 @@
 ---
 author: "Liam"
 date: 2019-05-06 00:00:12
-description: "What is Type Inference?"
+description: "Type Inference"
 layout: post
 permalink: type-inference
 published: true
 tags: [type inference]
-title: "Type Inference"
+title: "What is Type Inference?"
 ---
 
 ## Type Inference

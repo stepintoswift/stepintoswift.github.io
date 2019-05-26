@@ -2,12 +2,12 @@
 author: "Liam"
 category: "RxSwift"
 date: 2019-05-18 00:00:05
-description: "What is a DisposeBag in RxSwift?"
+description: "DisposeBag"
 layout: post
 permalink: rxswift-disposebag
 published: true
 tags: [Rx, ReactiveX, RxSwift, DisposeBag]
-title: "DisposeBag"
+title: "What is a DisposeBag in RxSwift?"
 ---
 
 ## RxSwift: DisposeBag

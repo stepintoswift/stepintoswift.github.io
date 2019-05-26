@@ -2,12 +2,12 @@
 author: "Liam"
 category: "RxSwift"
 date: 2019-05-19 00:00:05
-description: "What is the Range Operator in RxSwift?"
+description: "Range Operator"
 layout: post
 permalink: rxswift-operator-range
 published: true
 tags: [Rx, ReactiveX, RxSwift, Create, Operators, Operators]
-title: "Range Operator"
+title: "What is the Range Operator in RxSwift?"
 ---
 
 ## RxSwift: Range Operator

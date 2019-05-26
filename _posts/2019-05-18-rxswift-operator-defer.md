@@ -2,12 +2,12 @@
 author: "Liam"
 category: "RxSwift"
 date: 2019-05-19 00:00:01
-description: "What is the Defer Operator in RxSwift?"
+description: "Defer Operator"
 layout: post
 permalink: rxswift-operator-defer
 published: true
 tags: [Rx, ReactiveX, RxSwift, Defer, Operators, Operators]
-title: "Defer Operator"
+title: "What is the Defer Operator in RxSwift?"
 ---
 
 ## RxSwift: Defer Operator

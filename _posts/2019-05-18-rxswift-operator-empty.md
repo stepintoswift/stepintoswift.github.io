@@ -2,12 +2,12 @@
 author: "Liam"
 category: "RxSwift"
 date: 2019-05-19 00:00:03
-description: "What is the Empty Operator in RxSwift?"
+description: "Empty Operator"
 layout: post
 permalink: rxswift-operator-empty
 published: true
 tags: [Rx, ReactiveX, RxSwift, Empty, Operators, Operators]
-title: "Empty Operator"
+title: "What is the Empty Operator in RxSwift?"
 ---
 
 ## RxSwift: Empty Operator

@@ -2,12 +2,12 @@
 author: "Liam"
 category: "RxSwift"
 date: 2019-05-26 00:00:04
-description: "What is the ElementAt Operator in RxSwift?"
+description: "ElementAt Operator"
 layout: post
 permalink: rxswift-operator-elementat
 published: true
 tags: [Rx, ReactiveX, RxSwift, Operator, ElementAt]
-title: "ElementAt Operator"
+title: "What is the ElementAt Operator in RxSwift?"
 ---
 
 ## RxSwift: ElementAt Operator

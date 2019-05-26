@@ -2,12 +2,12 @@
 author: "Liam"
 category: "RxSwift"
 date: 2019-05-26 00:00:10
-description: "What is the TakeWhile Operator in RxSwift?"
+description: "TakeWhile Operator"
 layout: post
 permalink: rxswift-operator-takewhile
 published: true
 tags: [Rx, ReactiveX, RxSwift, Operator, TakeWhile]
-title: "TakeWhile Operator"
+title: "What is the TakeWhile Operator in RxSwift?"
 ---
 
 ## RxSwift: TakeWhile Operator

@@ -2,12 +2,12 @@
 author: "Liam"
 category: "RxSwift"
 date: 2019-05-19 00:00:02
-description: "What is the Error Operator in RxSwift?"
+description: "Error Operator"
 layout: post
 permalink: rxswift-operator-error
 published: true
 tags: [Rx, ReactiveX, RxSwift, Error, Operators, Operators]
-title: "Error Operator"
+title: "What is the Error Operator in RxSwift?"
 ---
 
 ## RxSwift: Error Operator

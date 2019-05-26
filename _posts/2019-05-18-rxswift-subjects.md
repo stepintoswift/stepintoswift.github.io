@@ -2,12 +2,12 @@
 author: "Liam"
 category: "RxSwift"
 date: 2019-05-19 00:00:06
-description: "What is a Subject in RxSwift?"
+description: "Subjects"
 layout: post
 permalink: rxswift-subjects
 published: true
 tags: [Rx, ReactiveX, RxSwift, Subjects, PublishSubject, BehaviorSubject, ReplaySubject, Variable]
-title: "Subjects"
+title: "What is a Subject in RxSwift?"
 ---
 
 ## RxSwift: Subjects

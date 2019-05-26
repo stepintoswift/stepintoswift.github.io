@@ -1,12 +1,12 @@
 ---
 author: "Liam"
 date: 2019-05-06 00:00:07
-description: "Should I use a struct or a class?"
+description: "Struct or Class"
 layout: post
 permalink: stuct-or-class
 published: true
 tags: [class, struct]
-title: "Struct or Class"
+title: "Should I use a struct or a class?"
 ---
 
 ## Struct vs Class

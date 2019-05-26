@@ -2,12 +2,12 @@
 author: "Liam"
 category: "RxSwift"
 date: 2019-05-18 00:00:00
-description: "What is ReactiveX?"
+description: "An introduction to ReactiveX"
 layout: post
 permalink: rxswift-introduction-to-reativex
 published: true
 tags: [Rx, ReactiveX, RxSwift, Sequences, Operators]
-title: "An introduction to ReactiveX"
+title: "What is ReactiveX?"
 ---
 
 ## RxSwift: An introduction to ReactiveX

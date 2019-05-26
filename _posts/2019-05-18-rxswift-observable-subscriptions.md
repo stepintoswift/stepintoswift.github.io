@@ -2,12 +2,12 @@
 author: "Liam"
 category: "RxSwift"
 date: 2019-05-18 00:00:03
-description: "How do I Subscribe to Observables in RxSwift?"
+description: "Subscribing to Observables"
 layout: post
 permalink: rxswift-subscribe-to-observables
 published: true
 tags: [Rx, ReactiveX, RxSwift, Observables, Subscribe]
-title: "Subscribing to Observables"
+title: "How do I Subscribe to Observables in RxSwift?"
 ---
 
 ## RxSwift: Subscribing to Observables

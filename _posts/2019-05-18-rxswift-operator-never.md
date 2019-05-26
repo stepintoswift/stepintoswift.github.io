@@ -2,12 +2,12 @@
 author: "Liam"
 category: "RxSwift"
 date: 2019-05-19 00:00:04
-description: "What is the Never Operator in RxSwift?"
+description: "Never Operator"
 layout: post
 permalink: rxswift-operator-never
 published: true
 tags: [Rx, ReactiveX, RxSwift, Never, Operators, Operators]
-title: "Never Operator"
+title: "What is the Never Operator in RxSwift?"
 ---
 
 ## RxSwift: Never Operator

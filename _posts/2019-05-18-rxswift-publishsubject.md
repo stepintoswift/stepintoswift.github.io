@@ -2,12 +2,12 @@
 author: "Liam"
 category: "RxSwift"
 date: 2019-05-19 00:00:07
-description: "What is a PublishSubject in RxSwift?"
+description: "PublishSubject"
 layout: post
 permalink: rxswift-publishsubject
 published: true
 tags: [Rx, ReactiveX, RxSwift, Subjects, PublishSubject]
-title: "PublishSubject"
+title: "What is a PublishSubject in RxSwift?"
 ---
 
 ## RxSwift: Publish Subject

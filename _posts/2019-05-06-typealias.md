@@ -1,12 +1,12 @@
 ---
 author: "Liam"
 date: 2019-05-06 00:00:13
-description: "What is a Typealias?"
+description: "Typealias"
 layout: post
 permalink: typealias
 published: true
 tags: [typealias]
-title: "Typealias"
+title: "What is a Typealias?"
 ---
 
 ## Typealias

@@ -2,12 +2,12 @@
 author: "Liam"
 category: "RxSwift"
 date: 2019-05-26 00:00:11
-description: "What is the TakeUntil Operator in RxSwift?"
+description: "TakeUntil Operator"
 layout: post
 permalink: rxswift-operator-takeuntil
 published: true
 tags: [Rx, ReactiveX, RxSwift, Operator, TakeUntil]
-title: "TakeUntil Operator"
+title: "What is the TakeUntil Operator in RxSwift?"
 ---
 
 ## RxSwift: TakeUntil Operator

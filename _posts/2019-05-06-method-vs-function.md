@@ -1,12 +1,12 @@
 ---
 author: "Liam"
 date: 2019-05-06 00:00:10
-description: What is the difference between a method and a function?
+description: "Method vs Function"
 layout: post
 permalink: method-vs-function
 published: true
 tags: [method, function]
-title: "Method vs Function"
+title: "What is the difference between a method and a function?"
 ---
 
 ## Method vs Function

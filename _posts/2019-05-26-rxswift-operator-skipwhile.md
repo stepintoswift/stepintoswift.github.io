@@ -2,12 +2,12 @@
 author: "Liam"
 category: "RxSwift"
 date: 2019-05-26 00:00:07
-description: "What is the SkipWhile Operator in RxSwift?"
+description: "SkipWhile Operator"
 layout: post
 permalink: rxswift-operator-skipwhile
 published: true
 tags: [Rx, ReactiveX, RxSwift, Operator, SkipWhile]
-title: "SkipWhile Operator"
+title: "What is the SkipWhile Operator in RxSwift?"
 ---
 
 ## RxSwift: SkipWhile Operator

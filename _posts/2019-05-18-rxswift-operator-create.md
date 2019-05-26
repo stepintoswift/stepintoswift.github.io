@@ -2,12 +2,12 @@
 author: "Liam"
 category: "RxSwift"
 date: 2019-05-19 00:00:00
-description: "What is the Create Operator in RxSwift?"
+description: "Create Operator"
 layout: post
 permalink: rxswift-operator-create
 published: true
 tags: [Rx, ReactiveX, RxSwift, Create, Operators, Operators]
-title: "Create Operator"
+title: "What is the Create Operator in RxSwift?"
 ---
 
 ## RxSwift: Create Operator

@@ -2,12 +2,12 @@
 author: "Liam"
 category: "RxSwift"
 date: 2019-05-18 00:00:08
-description: "What is the Of Operator in RxSwift?"
+description: "Of Operator"
 layout: post
 permalink: rxswift-operator-of
 published: true
 tags: [Rx, ReactiveX, RxSwift, Of, Operators, Operators]
-title: "Of Operator"
+title: "What is the Of Operator in RxSwift?"
 ---
 
 ## RxSwift: Of Operator

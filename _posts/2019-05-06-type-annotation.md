@@ -1,12 +1,12 @@
 ---
 author: "Liam"
 date: 2019-05-06 00:00:11
-description: "What is a Type Annotation?"
+description: "Type Annotation"
 layout: post
 permalink: type-annotation
 published: true
 tags: [type annotation]
-title: "Type Annotation"
+title: "What is a Type Annotation?"
 ---
 
 ## Type Annotation
