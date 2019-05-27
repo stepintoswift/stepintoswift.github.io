@@ -6,7 +6,7 @@ description: "ElementAt Operator"
 layout: post
 permalink: rxswift-operator-elementat
 published: true
-tags: [Rx, ReactiveX, RxSwift, Operator, ElementAt]
+tags: [Rx, ReactiveX, RxSwift, Operator, ElementAt, Filtering]
 title: "What is the ElementAt Operator in RxSwift?"
 ---
 

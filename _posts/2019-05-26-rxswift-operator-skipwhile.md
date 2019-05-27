@@ -6,7 +6,7 @@ description: "SkipWhile Operator"
 layout: post
 permalink: rxswift-operator-skipwhile
 published: true
-tags: [Rx, ReactiveX, RxSwift, Operator, SkipWhile]
+tags: [Rx, ReactiveX, RxSwift, Operator, SkipWhile, Filtering]
 title: "What is the SkipWhile Operator in RxSwift?"
 ---
 

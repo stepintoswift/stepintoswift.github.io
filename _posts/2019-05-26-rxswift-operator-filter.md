@@ -6,7 +6,7 @@ description: "Filter Operator"
 layout: post
 permalink: rxswift-operator-filter
 published: true
-tags: [Rx, ReactiveX, RxSwift, Operator, Filter]
+tags: [Rx, ReactiveX, RxSwift, Operator, Filter, Filtering]
 title: "What is the Filter Operator in RxSwift?"
 ---
 

@@ -6,7 +6,7 @@ description: "TakeUntil Operator"
 layout: post
 permalink: rxswift-operator-takeuntil
 published: true
-tags: [Rx, ReactiveX, RxSwift, Operator, TakeUntil]
+tags: [Rx, ReactiveX, RxSwift, Operator, TakeUntil, Filtering]
 title: "What is the TakeUntil Operator in RxSwift?"
 ---
 

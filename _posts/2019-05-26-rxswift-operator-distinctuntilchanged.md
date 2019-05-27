@@ -6,7 +6,7 @@ description: "DistinctUntilChanged Operator"
 layout: post
 permalink: rxswift-operator-distinctuntilchanged
 published: true
-tags: [Rx, ReactiveX, RxSwift, Operator, DistinctUntilChanged]
+tags: [Rx, ReactiveX, RxSwift, Operator, DistinctUntilChanged, Filtering]
 title: "What is the DistinctUntilChanged Operator in RxSwift?"
 ---
 

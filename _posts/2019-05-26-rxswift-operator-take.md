@@ -6,7 +6,7 @@ description: "Take Operator"
 layout: post
 permalink: rxswift-operator-take
 published: true
-tags: [Rx, ReactiveX, RxSwift, Operator, Take]
+tags: [Rx, ReactiveX, RxSwift, Operator, Take, Filtering]
 title: "What is the Take Operator in RxSwift?"
 ---
 

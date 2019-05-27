@@ -6,7 +6,7 @@ description: "SkipUntil Operator"
 layout: post
 permalink: rxswift-operator-skipuntil
 published: true
-tags: [Rx, ReactiveX, RxSwift, Operator, SkipUntil]
+tags: [Rx, ReactiveX, RxSwift, Operator, SkipUntil, Filtering]
 title: "What is the SkipUntil Operator in RxSwift?"
 ---
 

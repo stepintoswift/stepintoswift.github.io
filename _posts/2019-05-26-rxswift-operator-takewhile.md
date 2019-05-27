@@ -6,7 +6,7 @@ description: "TakeWhile Operator"
 layout: post
 permalink: rxswift-operator-takewhile
 published: true
-tags: [Rx, ReactiveX, RxSwift, Operator, TakeWhile]
+tags: [Rx, ReactiveX, RxSwift, Operator, TakeWhile, Filtering]
 title: "What is the TakeWhile Operator in RxSwift?"
 ---
 

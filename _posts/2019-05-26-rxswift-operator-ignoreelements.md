@@ -6,7 +6,7 @@ description: "IgnoreElements Operator"
 layout: post
 permalink: rxswift-operator-ignoreelements
 published: true
-tags: [Rx, ReactiveX, RxSwift, Operator, IgnoreElements]
+tags: [Rx, ReactiveX, RxSwift, Operator, IgnoreElements, Filtering]
 title: "What is the IgnoreElements Operator in RxSwift?"
 ---
 

@@ -6,7 +6,7 @@ description: "Skip Operator"
 layout: post
 permalink: rxswift-operator-skip
 published: true
-tags: [Rx, ReactiveX, RxSwift, Operator, Skip]
+tags: [Rx, ReactiveX, RxSwift, Operator, Skip, Filtering]
 title: "What is the Skip Operator in RxSwift?"
 ---
 
