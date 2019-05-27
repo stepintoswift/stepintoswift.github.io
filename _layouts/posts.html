@@ -35,15 +35,16 @@
           {{ content }}
 
           <h2>All Posts</h2>
+          <em>Number of posts: {{ site.posts | size }}</em>
           <ul class="post-list">
             {% assign sortedPosts = site.posts | sort: 'date' | reverse %}
             {% for post in sortedPosts %}
               <li>
-                <h2>
+                <h3>
                   <a href="{{ post.url }}">{{ post.description }}</a>
                   <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
-                </h2>
-
+                </h3>
+                {{ post.title }}
               </li>
             {% endfor %}
           </ul>
