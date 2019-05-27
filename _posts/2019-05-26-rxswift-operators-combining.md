@@ -13,11 +13,11 @@ title: "What are the Combining Operators in RxSwift?"
 ## RxSwift: Common Combining Operators
 
 ### Combining Operators
-- `.startWith(_:)`
-- `.concat(_:)`
-- `.merge()`
-- `.combineLatest()`
-- `.zip()`
+- [`.startWith(_:)`]({% post_url 2019-05-27-rxswift-operator-startwith %})
+- [`.concat(_:)`]({% post_url 2019-05-27-rxswift-operator-concat %})
+- [`.merge(_:)`]({% post_url 2019-05-27-rxswift-operator-merge %})
+- [`.combineLatest(_:)`]({% post_url 2019-05-27-rxswift-operator-combinelatest %})
+- [`.zip(_:)`]({% post_url 2019-05-27-rxswift-operator-zip %})
 - `.withLatestFrom(_:)`
 
 ### Switch Operators
