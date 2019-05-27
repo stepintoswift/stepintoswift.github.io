@@ -6,7 +6,7 @@ description: "Scan Operator"
 layout: post
 permalink: rxswift-operator-scan
 published: true
-tags: [Rx, ReactiveX, RxSwift, Operator, Scan, Transforming]
+tags: [Rx, ReactiveX, RxSwift, Operator, Scan, Transforming, Accumulator]
 title: "What is the Scan Operator in RxSwift?"
 ---
 
@@ -17,6 +17,7 @@ title: "What is the Scan Operator in RxSwift?"
 - Applies a supplied predicate to the elements emitted by an Observable, sequentially, emitting each successful result.
 - Applies function to first element and then uses the result of this as the parameter for the second emitted elements applied function, and so on.
 - Acts like an accumulator.
+- Useful for for running totals, statistics, states...
 
 ```
 --1--2--3--4--------5-------->

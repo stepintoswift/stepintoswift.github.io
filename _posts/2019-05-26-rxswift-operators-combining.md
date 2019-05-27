@@ -18,8 +18,4 @@ title: "What are the Combining Operators in RxSwift?"
 - [`.merge(_:)`]({% post_url 2019-05-27-rxswift-operator-merge %})
 - [`.combineLatest(_:)`]({% post_url 2019-05-27-rxswift-operator-combinelatest %})
 - [`.zip(_:)`]({% post_url 2019-05-27-rxswift-operator-zip %})
-- `.withLatestFrom(_:)`
-
-### Switch Operators
-- `amb(_:)`
-- `switchLatest()`
+- [`.withLatestFrom(_:)`]({% post_url 2019-05-27-rxswift-operator-withlatestfrom %})

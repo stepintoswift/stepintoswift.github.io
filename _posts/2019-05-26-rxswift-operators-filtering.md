@@ -30,3 +30,6 @@ title: "What are the Filtering Operators in RxSwift?"
 - [`.take(n)`]({% post_url 2019-05-26-rxswift-operator-take %})
 - [`.takeWhile()`]({% post_url 2019-05-26-rxswift-operator-takewhile %})
 - [`.takeUntil()`]({% post_url 2019-05-26-rxswift-operator-takeuntil %})
+
+### Other Operators
+- [`.sample()`]({% post_url 2019-05-27-rxswift-operator-sample %})
