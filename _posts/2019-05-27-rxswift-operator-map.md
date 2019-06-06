@@ -26,3 +26,11 @@ map(x -> x * 2)
 
 ----2--4-----6--8---->
 ```
+
+```
+.map { response in return response.url }
+
+// or even better...
+
+.map { $0.url }
+```
