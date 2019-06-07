@@ -29,8 +29,10 @@ map(x -> x * 2)
 
 ```
 .map { response in return response.url }
+.map({ (response: urls) -> [Url] in return response.urls })
 
 // or even better...
 
 .map { $0.url }
-```
+.map { $0.urls }
+``
