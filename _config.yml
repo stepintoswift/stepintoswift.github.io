@@ -2,3 +2,6 @@ theme: jekyll-theme-architect
 
 title: Step Into Swift
 description: iOS & Swift Tutorials
+plugins:
+  - jekyll-seo-tag
+google_analytics: UA-64396437-2
