@@ -17,7 +17,7 @@ title: "What is a Driver in RxCocoa?"
 - Go from: a single observable that updates the entire UI to `bindTo` and reuse the same observable across the viewController.
 
 ```
-search.map { "\($0.score)" }
+result.map { "\($0.score)" }
       .drive(scoreLabel.rx.text)
       .addDisposableTo(disposeBag)
 ```

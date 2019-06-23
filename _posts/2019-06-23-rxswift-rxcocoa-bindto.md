@@ -17,7 +17,7 @@ title: "What is the bindTo operator in RxCocoa?"
 - To bind an observer to another entity, the receiver must conform to observer type. i.e: a Subject that can process values but also written to.
 
 ```
-search.map { "\($0.score)" }
+result.map { "\($0.score)" }
       .bindTo(scoreLabel.rx.text)
       .addDisposableTo(disposeBag)
 ```
