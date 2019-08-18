@@ -1,6 +1,6 @@
 ---
 author: "Liam"
-date: 2019-05-06 00:00:08
+date: 2019-05-13 00:00:08
 description: "Controller Lifecycle"
 layout: post
 permalink: controller-lifecycle

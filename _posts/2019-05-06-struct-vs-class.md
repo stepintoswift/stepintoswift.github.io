@@ -1,6 +1,6 @@
 ---
 author: "Liam"
-date: 2019-05-06 00:00:07
+date: 2019-05-13 00:00:07
 description: "Struct or Class"
 layout: post
 permalink: stuct-or-class
