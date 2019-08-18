@@ -1,7 +1,7 @@
 ---
 author: "Liam"
 category: "RxSwift"
-date: 2019-05-18 00:00:03
+date: 2019-05-27 00:00:03
 description: "Subscribing to Observables"
 layout: post
 permalink: rxswift-subscribe-to-observables

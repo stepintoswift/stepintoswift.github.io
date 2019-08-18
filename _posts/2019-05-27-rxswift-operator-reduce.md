@@ -1,7 +1,7 @@
 ---
 author: "Liam"
 category: "RxSwift"
-date: 2019-05-27 00:00:17
+date: 2019-07-29 00:00:17
 description: "Reduce Operator"
 layout: post
 permalink: rxswift-operator-reduce

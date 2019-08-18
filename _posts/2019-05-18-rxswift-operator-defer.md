@@ -1,7 +1,7 @@
 ---
 author: "Liam"
 category: "RxSwift"
-date: 2019-05-19 00:00:01
+date: 2019-06-03 00:00:01
 description: "Defer Operator"
 layout: post
 permalink: rxswift-operator-defer

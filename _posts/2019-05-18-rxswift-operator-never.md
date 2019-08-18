@@ -1,7 +1,7 @@
 ---
 author: "Liam"
 category: "RxSwift"
-date: 2019-05-19 00:00:04
+date: 2019-06-10 00:00:04
 description: "Never Operator"
 layout: post
 permalink: rxswift-operator-never

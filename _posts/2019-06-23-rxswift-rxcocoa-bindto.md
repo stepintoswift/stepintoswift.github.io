@@ -1,6 +1,6 @@
 ---
 author: "Liam"
-date: 2019-06-23 00:00:01
+date: 2019-08-05 00:00:01
 description: "BindTo Operator"
 layout: post
 permalink: rxswift-rxcocoa-bindto

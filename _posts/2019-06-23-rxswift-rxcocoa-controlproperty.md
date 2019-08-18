@@ -1,6 +1,6 @@
 ---
 author: "Liam"
-date: 2019-06-23 00:00:04
+date: 2019-08-12 00:00:04
 description: "RxSwift: ControlProperty"
 layout: post
 permalink: rxswift-rxcocoa-controlproperty

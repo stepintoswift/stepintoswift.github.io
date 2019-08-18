@@ -1,7 +1,7 @@
 ---
 author: "Liam"
 category: "RxSwift"
-date: 2019-05-19 00:00:08
+date: 2019-06-10 00:00:08
 description: "BehaviorSubject"
 layout: post
 permalink: link-name

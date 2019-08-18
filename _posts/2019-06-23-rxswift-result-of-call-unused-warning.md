@@ -1,6 +1,6 @@
 ---
 author: "Liam"
-date: 2019-06-23 00:00:00
+date: 2019-07-29 00:00:00
 description: "Rx Warning: Result of call to subscription is unused"
 layout: post
 permalink: rxswift-result-of-call-unused-warning

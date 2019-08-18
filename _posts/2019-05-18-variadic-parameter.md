@@ -1,6 +1,6 @@
 ---
 author: "Liam"
-date: 2019-05-18 00:00:09
+date: 2019-06-03 00:00:09
 description: "Variadic Parameter"
 layout: post
 permalink: variadic-parameter

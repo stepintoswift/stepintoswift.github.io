@@ -1,6 +1,6 @@
 ---
 author: "Liam"
-date: 2019-05-06 00:00:10
+date: 2019-05-20 00:00:10
 description: "Method vs Function"
 layout: post
 permalink: method-vs-function

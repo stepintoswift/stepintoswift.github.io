@@ -1,7 +1,7 @@
 ---
 author: "Liam"
 category: "RxSwift"
-date: 2019-08-03 00:00:01
+date: 2019-08-12 00:00:01
 description: "Map Operator - Extensions"
 layout: post
 permalink: rxswift-operator-map-extensions

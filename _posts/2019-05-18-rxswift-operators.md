@@ -1,7 +1,7 @@
 ---
 author: "Liam"
 category: "RxSwift"
-date: 2019-05-18 00:00:02
+date: 2019-05-20 00:00:02
 description: "Operators"
 layout: post
 permalink: rxswift-operators

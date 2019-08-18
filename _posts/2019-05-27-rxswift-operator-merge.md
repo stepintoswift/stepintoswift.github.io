@@ -1,7 +1,7 @@
 ---
 author: "Liam"
 category: "RxSwift"
-date: 2019-05-27 00:00:09
+date: 2019-07-08 00:00:09
 description: "Merge Operator"
 layout: post
 permalink: rxswift-operator-merge

@@ -1,6 +1,6 @@
 ---
 author: "Liam"
-date: 2019-06-23 00:00:02
+date: 2019-08-05 00:00:02
 description: "RxSwift: Units"
 layout: post
 permalink: rxswift-rxcocoa-units

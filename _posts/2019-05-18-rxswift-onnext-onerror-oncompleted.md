@@ -1,7 +1,7 @@
 ---
 author: "Liam"
 category: "RxSwift"
-date: 2019-05-18 00:00:04
+date: 2019-05-27 00:00:04
 description: "onNext, onCompleted, onError"
 layout: post
 permalink: rxswift-onnext-oncompleted-onerror

@@ -1,7 +1,7 @@
 ---
 author: "Liam"
 category: "RxSwift"
-date: 2019-05-18 00:00:00
+date: 2019-05-20 00:00:00
 description: "An introduction to ReactiveX"
 layout: post
 permalink: rxswift-introduction-to-reativex

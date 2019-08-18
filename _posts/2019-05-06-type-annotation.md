@@ -1,6 +1,6 @@
 ---
 author: "Liam"
-date: 2019-05-06 00:00:11
+date: 2019-05-20 00:00:11
 description: "Type Annotation"
 layout: post
 permalink: type-annotation

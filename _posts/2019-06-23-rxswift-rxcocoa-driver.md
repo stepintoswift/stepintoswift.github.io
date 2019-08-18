@@ -1,6 +1,6 @@
 ---
 author: "Liam"
-date: 2019-06-23 00:00:03
+date: 2019-08-05 00:00:03
 description: "RxSwift: Driver"
 layout: post
 permalink: rxswift-rxcocoa-driver
