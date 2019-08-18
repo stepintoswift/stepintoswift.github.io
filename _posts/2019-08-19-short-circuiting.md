@@ -1,6 +1,6 @@
 ---
 author: "Liam"
-date: 2019-08-19 00:00:02
+date: 2019-08-26 00:00:00
 description: "Short Circuiting"
 layout: post
 permalink: short-circuiting
