@@ -4,7 +4,7 @@ date: 2019-08-19 00:00:00
 description: "Inout parameter"
 layout: post
 permalink: in-out-parameter
-published: true
+published: false
 tags: [inout, in, out]
 title: "What is an inout parameter?"
 ---

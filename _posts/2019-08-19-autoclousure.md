@@ -4,7 +4,7 @@ date: 2019-08-19 00:00:03
 description: "Autoclosure"
 layout: post
 permalink: autoclosure
-published: true
+published: false
 tags: [autoclosure, closure]
 title: "What is an autoclosure?"
 ---
