@@ -12,7 +12,7 @@ title: "What is a lazy stored property?"
 ## What is a lazy stored property?
 
 - Used to defer expensive computation until property is used for the first time.
-- Must always be declared as a `var` as it's initial value might not be set until after initialisation completes.
+- Must always be declared as a `var` as its initial value might not be set until after initialisation completes.
 - Add the `lazy` key word in front of the `var` keyword.
 - `: Type` followed by closure syntax.
 - `()` on the end of the closure.

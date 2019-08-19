@@ -11,7 +11,7 @@ title: "What is an inout parameter?"
 
 ## What is an inout parameter
 
-- Value is passed into the function, it is then modified by the function, and is passed back out of the function to replace the original value.
+- A value is passed into the function, it is then modified by the function and is passed back out of the function to replace the original value.
 - Pass-by-value-and-copy-back NOT pass-by-reference.
 - Every inout parameter needs a `&` prefix.
 - Must pass in a variable.
