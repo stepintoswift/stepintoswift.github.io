@@ -4,7 +4,7 @@ date: 2019-08-19 00:00:01
 description: "Lazy Properties"
 layout: post
 permalink: lazy-stored-properties
-published: false
+published: true
 tags: [lazy, properties]
 title: "What is a lazy stored property?"
 ---
