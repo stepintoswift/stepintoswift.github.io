@@ -5,7 +5,7 @@ date: 2019-08-26 00:00:00
 description: "Short Circuiting"
 layout: post
 permalink: short-circuiting
-published: false
+published: true
 tags: [short circuiting]
 title: "What is a short circuiting?"
 ---
