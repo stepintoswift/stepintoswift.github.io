@@ -5,7 +5,7 @@ date: 2019-09-02 00:00:00
 description: "Map Operator In action"
 layout: post
 permalink: map-operator-in-action
-published: false
+published: true
 tags: [Map, Operator]
 title: "How can I use the map operator in Swift?"
 ---
