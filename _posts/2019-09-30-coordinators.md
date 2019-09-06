@@ -1,7 +1,7 @@
 ---
 author: "Liam"
 category: "Swift"
-date: 2019-09-02 00:00:01
+date: 2019-09-30 00:00:00
 description: "Adding the Coordinator pattern"
 layout: post
 permalink: adding-coordinators

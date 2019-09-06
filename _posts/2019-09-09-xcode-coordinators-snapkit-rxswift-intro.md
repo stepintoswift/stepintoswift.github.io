@@ -1,7 +1,7 @@
 ---
 author: "Liam"
 category: "Swift"
-date: 2019-09-02 00:00:01
+date: 2019-09-09 00:00:00
 description: "Xcode Project with Coordinators, SnapKit and RxSwift"
 layout: post
 permalink: xcode-coordinators-snapkit-rxswift-intro

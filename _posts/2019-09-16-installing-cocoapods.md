@@ -1,7 +1,7 @@
 ---
 author: "Liam"
 category: "Swift"
-date: 2019-09-02 00:00:01
+date: 2019-09-16 00:00:00
 description: "Setting up Cocoapods"
 layout: post
 permalink: installing-cocoapods

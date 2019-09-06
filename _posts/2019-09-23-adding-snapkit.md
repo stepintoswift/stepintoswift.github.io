@@ -1,7 +1,7 @@
 ---
 author: "Liam"
 category: "Swift"
-date: 2019-09-02 00:00:01
+date: 2019-09-23 00:00:00
 description: "Adding SnapKit to your project"
 layout: post
 permalink: adding-snapkit
