@@ -10,7 +10,7 @@ tags: [Xcode, SnapKit]
 title: "How do I add SnapKit to my Xcode project?"
 ---
 
-## Setting up SnapKit
+## Adding SnapKit
 
 This is part 2 of our series on [setting up a new Xcode project with Coordinators, SnapKit and RxSwift](2019-09-02-xcode-coordinators-snapkit-rxswift-intro).
 

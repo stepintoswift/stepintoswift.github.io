@@ -12,13 +12,13 @@ title: "How do I use the Coordinator pattern?"
 
 ## Adding Coordinators
 
-This is Part 3 of my series on [Setting up a new Xcode project with Coordinators, SnapKit and RxSwift.]()
+This is Part 3 of my series on [Setting up a new Xcode project with Coordinators, SnapKit and RxSwift.](2019-09-02-xcode-coordinators-snapkit-rxswift-intro).
 
 If you're just here for the Coordinators, feel free to read on. If you'd like the full project / workspace, please see the previous articles:
 
-1. [Overview]()
-2. [Installing Cocoapods]()
-3. [Adding SnapKit]()
+1. [Overview](2019-09-02-xcode-coordinators-snapkit-rxswift-intro).
+2. [Installing Cocoapods](2019-09-16-installing-cocoapods).
+3. [Adding SnapKit](2019-09-23-adding-snapkit).
 
 ### Why Coordinator's
 
