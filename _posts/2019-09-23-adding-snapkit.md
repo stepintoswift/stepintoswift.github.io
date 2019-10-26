@@ -20,15 +20,7 @@ In this article we will talk through adding [SnapKit](https://github.com/SnapKit
 
 ### Step 1
 
-Open your Xcode project and rename `ViewController.swift` to `TestViewController.swift`
-
-### Step 2
-
-Open the `Main.storyboard` and within the `Identity Inspector` window on the right hand side, rename the `Class` to `TestViewController`
-
-### Step 2
-
-Replace the contents of `TestViewController` with:
+Replace the contents of `ViewController` with:
 
 ```
 import SnapKit
