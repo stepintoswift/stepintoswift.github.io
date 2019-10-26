@@ -12,6 +12,8 @@ title: "How do I set up a new Xcode workspace with Cocoapods?"
 
 ## Setting up a new project with Cocoapods
 
+This is part 1 of our series on [setting up a new Xcode project with Coordinators, SnapKit and RxSwift](2019-09-02-xcode-coordinators-snapkit-rxswift-intro).
+
 In this article we will create a Xcode Workspace via the use of [Cocoapods](https://cocoapods.org/){:target="_blank"}. So let's open terminal, navigate to your Xcode project and get started.
 
 ### Step 1: Install Cocoapods
