@@ -5,7 +5,7 @@ date: 2019-09-23 00:00:00
 description: "Adding SnapKit to your project"
 layout: post
 permalink: adding-snapkit
-published: false
+published: true
 tags: [Xcode, SnapKit]
 title: "How do I add SnapKit to my Xcode project?"
 ---
@@ -20,9 +20,13 @@ In this article we will talk through adding [SnapKit](https://github.com/SnapKit
 
 ### Step 1
 
-Rename `ViewController.swift` to `TestViewController.swift`
+Open your Xcode project and rename `ViewController.swift` to `TestViewController.swift`
 
-## Step 2
+### Step 2
+
+Open the `Main.storyboard` and within the `Identity Inspector` window on the right hand side, rename the `Class` to `TestViewController`
+
+### Step 2
 
 Replace the contents of `TestViewController` with:
 
