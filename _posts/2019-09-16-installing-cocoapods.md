@@ -5,14 +5,14 @@ date: 2019-09-16 00:00:00
 description: "Setting up Cocoapods"
 layout: post
 permalink: installing-cocoapods
-published: false
+published: true
 tags: [Xcode, Coordinators, SnapKit, RxSwift, Cocoapods]
 title: "How do I set up a new Xcode workspace with Cocoapods?"
 ---
 
 ## Setting up a new project with Cocoapods
 
-In this article we will create a Xcode Workspace via the use of [Cocoapods](https://cocoapods.org/){:target="_blank"}. So let's open terminal and get started.
+In this article we will create a Xcode Workspace via the use of [Cocoapods](https://cocoapods.org/){:target="_blank"}. So let's open terminal, navigate to your Xcode project and get started.
 
 ### Step 1: Install Cocoapods
 
@@ -38,17 +38,17 @@ atom Podfile
 platform :ios, '11.0'
 pod 'SwiftLint'
 
-target 'TeamPickerPlayground' do
+target 'StepIntoSwift' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
 
-  # Pods for TeamPickerPlaygroundinhibit_all_warnings!
-  pod 'RxSwift', '~> 5'
+  # Pods for StepIntoSwift
   pod 'RxCocoa', '~> 5'
   pod 'RxDataSources', '~> 4.0'
+  pod 'RxSwift', '~> 5'
   pod 'SnapKit', '~> 5.0.0'
 
-  target 'TeamPickerPlaygroundTests' do
+  target 'StepIntoSwiftTests' do
     inherit! :search_paths
     # Pods for testing
   end
