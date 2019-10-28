@@ -21,7 +21,7 @@ When you manage to get through your first few "Hello World" projects or working 
 
 I will take you through the set up of each of these in the following posts:
 
-1. Setting up a new project to use Cocoapods (Coming soon)
-2. Setup your project to use the Coordinator Pattern (Coming soon)
-3. Programmatic constraints with SnapKit - Project Setup (Coming soon)
+1. [Setting up a new project to use Cocoapods]({% post_url 2019-09-16-installing-cocoapods %}).
+2. [Adding SnapKit]({% post_url 2019-09-23-adding-snapkit %}).
+3. [Setup your project to use the Coordinator Pattern]({% post_url 2019-09-30-adding-coordinators %})
 4. Simple navigation with RxSwift (Coming soon)
