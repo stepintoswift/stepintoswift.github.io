@@ -6,17 +6,19 @@ layout: post
 permalink: typealias
 published: true
 tags: [typealias]
-title: "What is a typealias?"
+title: "What is a Typealias?"
 ---
 
 # Typealias
 
 ## What is a Typealias?
 
-- Adds a named alias for an existing type
-- Does not create a new type, it just refers to the existing type
-- You can use this named alias instead / as well as of the existing type name
-- Grammar: "A typealias definition"
+- Adds a named alias for an existing type.
+- Does not create a new type, it just refers to the existing type.
+- You can use this named alias instead / as well as of the existing type name.
+
+## Grammar
+- "I created a typealias definition for...".
 
 ## Creating a Typealias
 
