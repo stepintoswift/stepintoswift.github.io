@@ -37,6 +37,7 @@ Example: Typealias `String` and for use as a `Key`
 
 ```
 typealias Key = String
+
 let analyticsKey: Key
 ```
 
@@ -44,6 +45,7 @@ Example: Typealias `Int` and use as an `Identity`
 
 ```
 typealias Identity = Int
+
 let identity: Identity = 0
 ```
 
@@ -53,11 +55,14 @@ Example: Typealias a completion handler to make the completion handler parameter
 typealias ImageLoadingCompletedHandler = (() -> Void)
 
 func loadImage(imageUrl: URL?, onCompleted: ImageLoadingCompletedHandler? = nil) {
-  ...
+...
 ```
 
 Example: Typealias multiple protocols so that the type conforms to the typealias
 
 ```
-typealias Element = Equatable & CustomStringConvertible
+typealias ButtonElement = Equatable & CustomStringConvertible
+
+final class ButtonViewModel<Element: ButtonElement>  {
+...
 ```
