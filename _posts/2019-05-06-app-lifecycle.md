@@ -16,7 +16,7 @@ Launch time:
 - Application didFinishLaunchingWithOptions
 
 Transitioning to the foreground:
-- applciationDidBecomeActive
+- applicationDidBecomeActive
 
 Transitioning to the background:
 - applicationDidEnterBackground
