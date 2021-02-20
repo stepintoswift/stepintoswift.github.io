@@ -18,15 +18,15 @@ Launch time:
 Transitioning to the foreground:
 - applciationDidBecomeActive
 
-Transitioning tot he background:
+Transitioning to the background:
 - applicationDidEnterBackground
 
 Transitioning to the inactive state:
 - applicationWillResignActive: Called when leaving the foreground
-- applciationWillEnterForeground: Called when transitioning out of the background
+- applicationWillEnterForeground: Called when transitioning out of the background
 
 Termination:
-- applciaitonWillTerminate: Called only when the app is running. Not called if app is suspended
+- applicationWillTerminate: Called only when the app is running. Not called if app is suspended
 
 Related articles:
 - [Application States]({% post_url 2019-05-06-app-states %})
